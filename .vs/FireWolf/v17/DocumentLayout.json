@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|c:\\users\\hp\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\c#_projects\\firewolf\\firewolf\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8279C618-5346-43D1-845C-508507E1EE08}|FireWolf\\FireWolf.csproj|solutionrelative:firewolf\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\OrderItem.cs",
+              "RelativeToolTip": "FireWolf\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:50:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\Roles.cs",
+              "RelativeToolTip": "FireWolf\\Models\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:47:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userRoles.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\userRoles.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Models\\userRoles.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\userRoles.cs",
+              "RelativeToolTip": "FireWolf\\Models\\userRoles.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:47:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Models\\Users.cs",
+              "RelativeToolTip": "FireWolf\\Models\\Users.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:47:24.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FireWolf\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\AppDbContext.cs",
+              "RelativeToolTip": "FireWolf\\AppDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:47:15.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connections.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Connections.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Connections.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Connections.cs",
+              "RelativeToolTip": "FireWolf\\Connections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:47:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Program.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Program.cs",
+              "RelativeToolTip": "FireWolf\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:46:58.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FireWolf\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\C#_projects\\FireWolf\\FireWolf\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FireWolf\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:52:30.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
